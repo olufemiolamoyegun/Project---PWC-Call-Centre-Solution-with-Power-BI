@@ -1,7 +1,5 @@
 # Project---PWC-Call-Centre-Solution 
 README
-[]C:\Users\femi_\Desktop\images\PWC DASHBOARD.png
-
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 
 Possible KPIs include (to get you started, but not limited to):
@@ -11,8 +9,6 @@ Overall calls answered/abandoned
 Calls by time
 The average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
-
-![Image[C:\Users\femi_\Desktop\images\PWC DASHBOARD.png]
 
 PWC Virtual Experience (The Call Centre Solution)
 
