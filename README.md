@@ -1,5 +1,7 @@
 # Project---PWC-Call-Centre-Solution 
 README
+We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning.
+
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 
 Possible KPIs include (to get you started, but not limited to):
