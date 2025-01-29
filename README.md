@@ -1,39 +1,52 @@
 # Project---PWC-Call-Centre-Solution 
 README
-We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning.
 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
+Data Analysis Project: Call Center Performance Dashboard
 
-Possible KPIs include (to get you started, but not limited to):
+Project Overview
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-The average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+This project aims to empower employees through digital skill acceleration by leveraging data analytics. As part of the PwC Virtual Experience (The Call Centre Solution), we will develop a Power BI dashboard that visualizes key call center performance metrics. The goal is to provide actionable insights into customer satisfaction, agent efficiency, and service trends.
 
-PWC Virtual Experience (The Call Centre Solution)
+Objective
+Develop an interactive Power BI dashboard for Claire that displays key performance indicators (KPIs) and trends in call center operations. The dashboard should enable decision-making by highlighting areas for improvement and efficiency.
 
-The sum of the Speed of answers in seconds trended down between Saturday, March 27, 2021, and Wednesday, March 31, 2021, with a drop in Possible explanations
+Key Performance Indicators (KPIs)
+The dashboard will include, but is not limited to, the following KPIs:
 
-Agent
-'Dan', 'Becky', and 'Greg' accounted for the majority of the decrease among Agents, offsetting the increase of 'Diane' and 'Martha'. The relative contributions made by 'Diane', 'Martha', and 'Dan' changed the most.
+Customer Satisfaction – Trends in overall satisfaction ratings.
+Call Handling Metrics – Calls answered, abandoned, and categorized by time.
+Average Speed of Answer – Trends in response time and potential improvements.
+Agent Performance Analysis
+Performance Quadrant: Correlating average handle time with the number of calls answered.
+Identifying top-performing and underperforming agents.
 
-The sum of Satisfaction ratings trended down between Friday, March 26, 2021, and Wednesday, March 31, 2021, with a drop of 82.
-Possible explanations
 
-Topic
-'Technical Support' and 'Admin Support' accounted for the majority of the decrease among Topics. The relative contributions made by 'Payment related', 'Technical Support', and 'Contract related' changed the most.
+Data Insights & Analysis
+Speed of Answer Trends
 
-The sum of the Speed of answers in seconds trended down between Friday, August 18, 2023, and Friday, August 18, 2023, with a drop of 308.
-Possible explanations
-Agent
-'Jim' accounted for the majority of the decrease among Agents, offsetting the increase of 'Dan'. The relative contributions made by 'Jim', 'Dan', and 'Stewart' changed the most.
+The sum of speed of answers in seconds declined between March 27, 2021 – March 31, 2021.
+Significant contributors to this trend:
+Agents Dan, Becky, and Greg had a decline in performance.
+Agents Diane and Martha improved their response times.
+Satisfaction Ratings Decline
 
-KPI Analysis
-A sum of Speed of answer in seconds analysis
-The overall Sum of the Speed of the answer in seconds is currently at 273729, and the Sum of the Speed of the answer in seconds for Agent Stewart is significantly lower than other segments at 31570.
+Customer satisfaction ratings dropped by 82 points from March 26, 2021 – March 31, 2021.
+Primary reasons:
+Topics related to Technical Support and Admin Support had the largest negative impact.
+Categories such as Payment-related, Technical Support, and Contract-related showed notable changes.
+Agent Performance – Speed of Answer Analysis
 
-Conclusion
+The overall sum of speed of answers stands at 273,729 seconds.
+Agent Stewart has the lowest total response time at 31,570 seconds, indicating a need for further evaluation and potential training.
 
-KPI analysis shows that Stewart skills and more training should be improved upon by giving the necessary assistance to enhance speed in making calls.
+
+Conclusion & Recommendations
+Targeted Agent Training:
+Agents such as Stewart require further coaching to improve call-handling speed.
+Performance improvement strategies should be implemented for agents with declining response rates.
+Customer Support Optimization:
+Address inefficiencies in Technical Support and Admin Support, as these significantly impact customer satisfaction.
+KPI Monitoring & Continuous Improvement:
+Regularly update the Power BI dashboard to track improvements in call center performance.
+Implement proactive strategies to enhance customer experience and response efficiency.
+This project demonstrates the power of data-driven decision-making in optimizing customer service operations. 
