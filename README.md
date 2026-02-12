@@ -112,7 +112,7 @@ As part of the PwC Virtual Experience Program – “The Call Centre Solution”
 
 ## 🖼 Dashboard Preview
 Include screenshots or GIFs of your Power BI dashboard here:  
-![Dashboard Overview]()   
+![Dashboard Overview](pwc_call_centre.png)   
 
 > Tip: Export charts or create GIFs to showcase interactivity on GitHub.
 
